@@ -1,4 +1,4 @@
-# Bem vindos ao Github do Pagar.me!
+# Bem vindos ao Github da PlayFlix!
 
 ![Banner Github](/images/banner.png)
 
@@ -13,4 +13,4 @@ Essas são algumas das tecnologias que usamos para construir nossos produtos inc
 
 ## Vagas
 
-Você pode conferir todas oportunidades **[clicando aqui](https://vagas.pagar.me/)**
+Você pode conferir todas oportunidades **[clicando aqui](https://vagas.playflix.me/)**
