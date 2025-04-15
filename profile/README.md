@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Bem vindos ao Github da PlayFlix!
+# Bem vindos ao Github da Playflix!
 
 ![Banner Github](/images/banner.png)
 
